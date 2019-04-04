@@ -1,3 +1,7 @@
 name = Peter
 size = 100
 email = peter@dir.bg
+
+name = Rubsi
+size = -10
+email = krivoglav4o@abv.bg
