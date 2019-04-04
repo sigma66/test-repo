@@ -9,3 +9,7 @@ email = krivoglav4o@abv.bg
 name = Mite
 size = 45
 email = bibi@mail.bg
+
+name = Liube
+size = 566
+email = fatman@mail.bg
