@@ -5,3 +5,7 @@ email = peter@dir.bg
 name = Rubsi
 size = -10
 email = krivoglav4o@abv.bg
+
+name = Mite
+size = 45
+email = bibi@mail.bg
